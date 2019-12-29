@@ -1,0 +1,19 @@
+{
+  "name": "03-basesnode",
+  "version": "2.0.0",
+  "description": "Esta es una aplicacion de linea de comando",
+  "main": "app.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^4.17.1",
+    "yargs": "^15.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Antonio Garcia",
+  "license": "ISC"
+}
